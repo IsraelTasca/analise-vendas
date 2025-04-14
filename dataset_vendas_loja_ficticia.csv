@@ -1,0 +1,201 @@
+Data,Produto,Categoria,Preço Unitário,Quantidade Vendida,Receita Total,Forma de Pagamento,Região
+2023-01-20,Notebook,Eletrônicos,4285.65,2,8571.3,Dinheiro,Sul
+2023-09-24,Cafeteira,Eletrodomésticos,1355.8,10,13558.0,Dinheiro,Centro-Oeste
+2023-08-07,Sandália,Calçados,3939.38,8,31515.04,Pix,Norte
+2023-11-21,Cafeteira,Eletrodomésticos,580.3,8,4642.4,Cartão de Crédito,Sul
+2023-10-20,Smartphone,Eletrônicos,2467.46,6,14804.76,Pix,Nordeste
+2023-10-09,Camisa Polo,Roupas,807.72,10,8077.2,Pix,Norte
+2023-08-07,Camisa Polo,Roupas,2089.06,6,12534.36,Dinheiro,Norte
+2023-10-11,Calça Jeans,Roupas,2021.49,7,14150.43,Pix,Sul
+2023-05-15,Sandália,Calçados,3160.32,3,9480.96,Cartão de Débito,Sul
+2023-01-23,Calça Jeans,Roupas,1758.26,10,17582.6,Dinheiro,Norte
+2023-02-18,Smartphone,Eletrônicos,4255.42,3,12766.26,Pix,Nordeste
+2023-07-13,Notebook,Eletrônicos,2120.01,1,2120.01,Dinheiro,Norte
+2023-07-30,Smartphone,Eletrônicos,280.95,9,2528.55,Pix,Sudeste
+2023-04-13,Sandália,Calçados,4825.93,5,24129.65,Cartão de Crédito,Centro-Oeste
+2023-11-10,Tênis Esportivo,Calçados,3626.11,10,36261.1,Cartão de Débito,Centro-Oeste
+2023-08-01,Notebook,Eletrônicos,730.53,2,1461.06,Cartão de Débito,Sudeste
+2023-03-01,Camisa Polo,Roupas,1129.27,8,9034.16,Cartão de Crédito,Sudeste
+2023-08-11,Notebook,Eletrônicos,1720.31,6,10321.86,Cartão de Débito,Sudeste
+2023-07-19,Tênis Esportivo,Calçados,1443.82,6,8662.92,Cartão de Crédito,Sul
+2023-07-11,Liquidificador,Eletrodomésticos,2495.07,7,17465.49,Dinheiro,Sudeste
+2023-02-11,Calça Jeans,Roupas,335.72,6,2014.32,Pix,Sul
+2023-10-16,Tênis Esportivo,Calçados,2192.9,2,4385.8,Cartão de Crédito,Centro-Oeste
+2023-07-24,Tênis Esportivo,Calçados,4899.66,10,48996.6,Cartão de Débito,Sudeste
+2023-05-28,Smartphone,Eletrônicos,3724.42,9,33519.78,Cartão de Débito,Nordeste
+2023-02-24,Notebook,Eletrônicos,4273.34,10,42733.4,Dinheiro,Sul
+2023-09-11,Liquidificador,Eletrodomésticos,1945.42,6,11672.52,Dinheiro,Sudeste
+2023-11-19,Camisa Polo,Roupas,2644.44,7,18511.08,Dinheiro,Sudeste
+2023-01-19,Liquidificador,Eletrodomésticos,2991.48,10,29914.8,Cartão de Crédito,Nordeste
+2023-07-17,Sandália,Calçados,1073.36,4,4293.44,Pix,Sudeste
+2023-03-13,Calça Jeans,Roupas,1227.3,8,9818.4,Cartão de Crédito,Norte
+2023-12-20,Smartphone,Eletrônicos,1311.38,7,9179.66,Cartão de Crédito,Norte
+2023-11-05,Sandália,Calçados,2571.99,4,10287.96,Dinheiro,Sudeste
+2023-02-20,Tênis Esportivo,Calçados,692.3,8,5538.4,Dinheiro,Norte
+2023-08-25,Cafeteira,Eletrodomésticos,3841.88,10,38418.8,Dinheiro,Nordeste
+2023-01-29,Camisa Polo,Roupas,4150.0,9,37350.0,Cartão de Débito,Centro-Oeste
+2023-07-08,Sandália,Calçados,1749.66,2,3499.32,Pix,Centro-Oeste
+2023-06-17,Tênis Esportivo,Calçados,4358.22,5,21791.1,Pix,Norte
+2023-01-30,Camisa Polo,Roupas,534.68,9,4812.12,Cartão de Crédito,Sul
+2023-07-02,Smartphone,Eletrônicos,65.38,10,653.8,Dinheiro,Norte
+2023-11-04,Notebook,Eletrônicos,1471.7,2,2943.4,Cartão de Crédito,Centro-Oeste
+2023-10-07,Smartphone,Eletrônicos,3121.77,2,6243.54,Dinheiro,Centro-Oeste
+2023-03-22,Cafeteira,Eletrodomésticos,3029.08,2,6058.16,Pix,Nordeste
+2023-01-27,Sandália,Calçados,1435.38,3,4306.14,Pix,Sul
+2023-11-27,Camisa Polo,Roupas,2090.15,8,16721.2,Dinheiro,Sul
+2023-05-05,Camisa Polo,Roupas,4244.22,3,12732.66,Cartão de Débito,Norte
+2023-02-19,Tênis Esportivo,Calçados,2436.07,3,7308.21,Cartão de Crédito,Centro-Oeste
+2023-10-23,Cafeteira,Eletrodomésticos,2940.34,6,17642.04,Cartão de Débito,Centro-Oeste
+2023-04-01,Smartphone,Eletrônicos,990.36,5,4951.8,Cartão de Crédito,Nordeste
+2023-05-06,Liquidificador,Eletrodomésticos,2365.7,3,7097.1,Dinheiro,Nordeste
+2023-09-19,Smartphone,Eletrônicos,2244.27,1,2244.27,Cartão de Crédito,Centro-Oeste
+2023-06-22,Smartphone,Eletrônicos,2921.73,4,11686.92,Dinheiro,Sudeste
+2023-02-11,Cafeteira,Eletrodomésticos,4658.01,4,18632.04,Pix,Nordeste
+2023-03-15,Smartphone,Eletrônicos,3125.59,3,9376.77,Cartão de Crédito,Norte
+2023-02-14,Tênis Esportivo,Calçados,4570.87,3,13712.61,Pix,Nordeste
+2023-09-29,Calça Jeans,Roupas,3785.01,6,22710.06,Cartão de Crédito,Nordeste
+2023-10-16,Notebook,Eletrônicos,3277.52,7,22942.64,Cartão de Débito,Sudeste
+2023-01-13,Smartphone,Eletrônicos,1713.48,6,10280.88,Cartão de Crédito,Norte
+2023-07-12,Sandália,Calçados,1805.07,1,1805.07,Cartão de Crédito,Sul
+2023-09-29,Liquidificador,Eletrodomésticos,3790.21,9,34111.89,Cartão de Crédito,Sudeste
+2023-11-13,Liquidificador,Eletrodomésticos,609.44,5,3047.2,Cartão de Crédito,Norte
+2023-09-16,Camisa Polo,Roupas,4146.9,1,4146.9,Cartão de Débito,Sul
+2023-10-02,Cafeteira,Eletrodomésticos,1189.31,8,9514.48,Cartão de Débito,Sul
+2023-03-08,Camisa Polo,Roupas,3043.43,10,30434.3,Cartão de Débito,Sul
+2023-06-29,Tênis Esportivo,Calçados,1738.51,9,15646.59,Cartão de Débito,Sul
+2023-03-11,Cafeteira,Eletrodomésticos,1983.73,10,19837.3,Cartão de Débito,Centro-Oeste
+2023-06-07,Tênis Esportivo,Calçados,4268.33,1,4268.33,Cartão de Crédito,Centro-Oeste
+2023-08-14,Liquidificador,Eletrodomésticos,954.92,6,5729.52,Cartão de Crédito,Nordeste
+2023-10-26,Notebook,Eletrônicos,2154.39,4,8617.56,Cartão de Crédito,Norte
+2023-03-25,Sandália,Calçados,1162.74,3,3488.22,Dinheiro,Norte
+2023-02-02,Sandália,Calçados,3522.27,1,3522.27,Dinheiro,Nordeste
+2023-08-27,Calça Jeans,Roupas,2557.7,1,2557.7,Pix,Sudeste
+2023-02-17,Calça Jeans,Roupas,1723.01,9,15507.09,Dinheiro,Nordeste
+2023-02-07,Camisa Polo,Roupas,1481.25,5,7406.25,Dinheiro,Nordeste
+2023-01-18,Calça Jeans,Roupas,2610.2,1,2610.2,Cartão de Crédito,Sudeste
+2023-06-04,Calça Jeans,Roupas,1686.74,7,11807.18,Pix,Norte
+2023-10-28,Notebook,Eletrônicos,517.13,5,2585.65,Dinheiro,Norte
+2023-10-23,Liquidificador,Eletrodomésticos,1361.39,7,9529.73,Dinheiro,Nordeste
+2023-12-31,Sandália,Calçados,1795.19,4,7180.76,Pix,Sul
+2023-10-15,Sandália,Calçados,4897.21,1,4897.21,Pix,Norte
+2023-10-20,Liquidificador,Eletrodomésticos,2211.75,3,6635.25,Cartão de Crédito,Centro-Oeste
+2023-02-13,Liquidificador,Eletrodomésticos,2827.08,6,16962.48,Dinheiro,Norte
+2023-09-10,Tênis Esportivo,Calçados,4633.23,1,4633.23,Cartão de Crédito,Sul
+2023-04-07,Cafeteira,Eletrodomésticos,1465.9,6,8795.4,Dinheiro,Sudeste
+2023-04-17,Notebook,Eletrônicos,2978.36,4,11913.44,Cartão de Débito,Sul
+2023-03-17,Smartphone,Eletrônicos,3413.85,3,10241.55,Pix,Centro-Oeste
+2023-11-13,Tênis Esportivo,Calçados,2596.58,3,7789.74,Cartão de Crédito,Centro-Oeste
+2023-12-09,Sandália,Calçados,2505.56,8,20044.48,Pix,Sul
+2023-03-31,Notebook,Eletrônicos,3001.89,3,9005.67,Dinheiro,Sul
+2023-09-09,Tênis Esportivo,Calçados,3676.46,9,33088.14,Dinheiro,Norte
+2023-01-07,Camisa Polo,Roupas,1765.36,10,17653.6,Cartão de Crédito,Centro-Oeste
+2023-07-19,Tênis Esportivo,Calçados,1763.47,3,5290.41,Cartão de Crédito,Nordeste
+2024-01-01,Notebook,Eletrônicos,4278.92,8,34231.36,Cartão de Débito,Nordeste
+2023-02-18,Smartphone,Eletrônicos,1494.16,2,2988.32,Cartão de Crédito,Nordeste
+2023-11-16,Camisa Polo,Roupas,3033.37,1,3033.37,Cartão de Débito,Centro-Oeste
+2023-12-01,Camisa Polo,Roupas,831.53,8,6652.24,Cartão de Crédito,Centro-Oeste
+2023-05-22,Sandália,Calçados,2737.35,7,19161.45,Cartão de Crédito,Centro-Oeste
+2023-06-09,Cafeteira,Eletrodomésticos,3516.23,3,10548.69,Pix,Nordeste
+2023-08-16,Liquidificador,Eletrodomésticos,1638.68,10,16386.8,Pix,Sul
+2023-11-06,Cafeteira,Eletrodomésticos,3333.97,8,26671.76,Cartão de Débito,Sul
+2023-10-25,Calça Jeans,Roupas,3915.17,9,35236.53,Dinheiro,Sul
+2023-06-10,Liquidificador,Eletrodomésticos,621.83,6,3730.98,Dinheiro,Sul
+2023-10-30,Sandália,Calçados,2085.21,2,4170.42,Dinheiro,Sudeste
+2023-10-20,Calça Jeans,Roupas,3442.08,7,24094.56,Cartão de Débito,Norte
+2023-06-07,Camisa Polo,Roupas,4906.25,4,19625.0,Pix,Centro-Oeste
+2023-03-15,Sandália,Calçados,859.31,5,4296.55,Dinheiro,Sul
+2023-04-17,Cafeteira,Eletrodomésticos,1713.19,7,11992.33,Cartão de Crédito,Sul
+2023-11-20,Notebook,Eletrônicos,4731.81,1,4731.81,Dinheiro,Sudeste
+2023-05-18,Liquidificador,Eletrodomésticos,609.55,7,4266.85,Cartão de Débito,Centro-Oeste
+2023-12-09,Calça Jeans,Roupas,4813.41,3,14440.23,Dinheiro,Centro-Oeste
+2023-02-21,Cafeteira,Eletrodomésticos,1749.61,5,8748.05,Dinheiro,Norte
+2023-04-06,Sandália,Calçados,2150.02,3,6450.06,Cartão de Débito,Sul
+2023-07-17,Smartphone,Eletrônicos,3607.68,3,10823.04,Pix,Nordeste
+2023-03-12,Notebook,Eletrônicos,2291.43,3,6874.29,Pix,Norte
+2023-04-11,Smartphone,Eletrônicos,3265.08,3,9795.24,Dinheiro,Sudeste
+2023-10-13,Notebook,Eletrônicos,4722.35,4,18889.4,Cartão de Débito,Sul
+2023-01-15,Cafeteira,Eletrodomésticos,692.18,4,2768.72,Cartão de Débito,Norte
+2023-01-18,Camisa Polo,Roupas,3798.8,1,3798.8,Cartão de Débito,Sudeste
+2023-11-23,Cafeteira,Eletrodomésticos,4617.95,1,4617.95,Cartão de Débito,Sudeste
+2023-11-26,Tênis Esportivo,Calçados,2973.69,10,29736.9,Cartão de Débito,Sul
+2023-02-09,Camisa Polo,Roupas,2302.48,6,13814.88,Pix,Centro-Oeste
+2023-01-14,Calça Jeans,Roupas,2766.79,2,5533.58,Pix,Centro-Oeste
+2023-01-01,Calça Jeans,Roupas,4586.37,6,27518.22,Cartão de Débito,Sudeste
+2023-03-08,Calça Jeans,Roupas,2342.44,6,14054.64,Cartão de Débito,Nordeste
+2023-05-03,Smartphone,Eletrônicos,2232.27,4,8929.08,Cartão de Débito,Centro-Oeste
+2023-07-11,Notebook,Eletrônicos,2457.44,2,4914.88,Cartão de Débito,Norte
+2023-10-26,Notebook,Eletrônicos,1977.82,5,9889.1,Cartão de Débito,Sul
+2023-11-26,Tênis Esportivo,Calçados,660.51,2,1321.02,Cartão de Débito,Sudeste
+2023-01-19,Cafeteira,Eletrodomésticos,1545.22,7,10816.54,Cartão de Débito,Sul
+2023-05-13,Cafeteira,Eletrodomésticos,3527.33,3,10581.99,Cartão de Débito,Centro-Oeste
+2023-12-04,Calça Jeans,Roupas,4823.56,6,28941.36,Cartão de Crédito,Centro-Oeste
+2023-10-16,Smartphone,Eletrônicos,388.62,3,1165.86,Cartão de Débito,Norte
+2023-09-21,Smartphone,Eletrônicos,744.28,9,6698.52,Cartão de Crédito,Nordeste
+2023-06-14,Sandália,Calçados,1150.36,7,8052.52,Cartão de Débito,Norte
+2023-07-05,Liquidificador,Eletrodomésticos,2646.01,3,7938.03,Cartão de Débito,Sudeste
+2023-02-01,Liquidificador,Eletrodomésticos,2003.47,9,18031.23,Cartão de Crédito,Norte
+2023-12-22,Cafeteira,Eletrodomésticos,4017.5,2,8035.0,Dinheiro,Sudeste
+2023-12-30,Calça Jeans,Roupas,479.04,4,1916.16,Cartão de Crédito,Centro-Oeste
+2023-11-11,Cafeteira,Eletrodomésticos,3263.79,1,3263.79,Pix,Centro-Oeste
+2023-04-15,Smartphone,Eletrônicos,1653.32,5,8266.6,Cartão de Crédito,Centro-Oeste
+2023-03-21,Tênis Esportivo,Calçados,1251.58,9,11264.22,Cartão de Crédito,Norte
+2023-01-15,Calça Jeans,Roupas,2901.63,7,20311.41,Cartão de Crédito,Sul
+2023-11-17,Smartphone,Eletrônicos,4551.92,10,45519.2,Dinheiro,Centro-Oeste
+2023-10-10,Cafeteira,Eletrodomésticos,945.95,4,3783.8,Cartão de Crédito,Sul
+2023-09-12,Tênis Esportivo,Calçados,3178.79,1,3178.79,Cartão de Débito,Sudeste
+2023-04-16,Smartphone,Eletrônicos,301.21,1,301.21,Cartão de Crédito,Centro-Oeste
+2023-04-26,Calça Jeans,Roupas,1206.53,4,4826.12,Cartão de Débito,Nordeste
+2023-10-14,Calça Jeans,Roupas,3602.77,4,14411.08,Pix,Sudeste
+2023-02-11,Sandália,Calçados,894.11,3,2682.33,Dinheiro,Sudeste
+2023-10-06,Liquidificador,Eletrodomésticos,4095.67,10,40956.7,Cartão de Débito,Nordeste
+2023-11-13,Sandália,Calçados,4895.42,2,9790.84,Dinheiro,Centro-Oeste
+2023-06-28,Cafeteira,Eletrodomésticos,1708.19,2,3416.38,Pix,Norte
+2023-09-16,Sandália,Calçados,669.59,3,2008.77,Pix,Norte
+2023-11-12,Cafeteira,Eletrodomésticos,2688.76,10,26887.6,Cartão de Crédito,Norte
+2023-05-09,Smartphone,Eletrônicos,2783.37,5,13916.85,Cartão de Débito,Norte
+2023-05-22,Calça Jeans,Roupas,1341.04,8,10728.32,Pix,Sul
+2023-03-29,Camisa Polo,Roupas,1762.31,5,8811.55,Cartão de Crédito,Sudeste
+2023-07-01,Sandália,Calçados,906.53,4,3626.12,Cartão de Débito,Norte
+2023-06-22,Tênis Esportivo,Calçados,4852.9,3,14558.7,Dinheiro,Sul
+2023-09-21,Liquidificador,Eletrodomésticos,1690.29,2,3380.58,Pix,Sul
+2023-12-19,Liquidificador,Eletrodomésticos,398.77,6,2392.62,Pix,Norte
+2023-04-09,Calça Jeans,Roupas,2170.06,3,6510.18,Pix,Sul
+2023-01-12,Camisa Polo,Roupas,2700.51,10,27005.1,Dinheiro,Sul
+2023-10-24,Liquidificador,Eletrodomésticos,4990.88,1,4990.88,Dinheiro,Sudeste
+2023-02-25,Tênis Esportivo,Calçados,628.62,8,5028.96,Pix,Norte
+2023-10-12,Camisa Polo,Roupas,1001.0,7,7007.0,Cartão de Débito,Norte
+2023-09-26,Camisa Polo,Roupas,4658.66,7,32610.62,Cartão de Crédito,Sudeste
+2023-10-10,Liquidificador,Eletrodomésticos,732.73,6,4396.38,Cartão de Débito,Sul
+2023-04-28,Liquidificador,Eletrodomésticos,2909.04,7,20363.28,Dinheiro,Norte
+2023-03-21,Notebook,Eletrônicos,3714.47,1,3714.47,Cartão de Débito,Sul
+2023-03-23,Smartphone,Eletrônicos,110.23,10,1102.3,Cartão de Débito,Norte
+2023-08-22,Cafeteira,Eletrodomésticos,3199.66,3,9598.98,Dinheiro,Sudeste
+2023-10-16,Camisa Polo,Roupas,2576.27,5,12881.35,Pix,Nordeste
+2023-01-25,Smartphone,Eletrônicos,2462.83,7,17239.81,Pix,Norte
+2023-03-26,Tênis Esportivo,Calçados,4087.04,9,36783.36,Dinheiro,Nordeste
+2023-05-13,Smartphone,Eletrônicos,1202.31,3,3606.93,Dinheiro,Sul
+2023-05-22,Tênis Esportivo,Calçados,4351.21,1,4351.21,Dinheiro,Nordeste
+2023-09-12,Sandália,Calçados,2246.88,6,13481.28,Cartão de Crédito,Sudeste
+2023-11-04,Cafeteira,Eletrodomésticos,4921.19,1,4921.19,Cartão de Débito,Sul
+2023-12-18,Tênis Esportivo,Calçados,298.45,8,2387.6,Cartão de Débito,Nordeste
+2023-10-07,Calça Jeans,Roupas,3394.05,6,20364.3,Cartão de Crédito,Centro-Oeste
+2023-06-19,Cafeteira,Eletrodomésticos,4056.35,3,12169.05,Dinheiro,Sul
+2023-10-27,Notebook,Eletrônicos,973.53,9,8761.77,Dinheiro,Sul
+2023-09-22,Notebook,Eletrônicos,4851.04,10,48510.4,Cartão de Crédito,Norte
+2023-02-20,Notebook,Eletrônicos,2484.05,1,2484.05,Cartão de Crédito,Nordeste
+2023-05-02,Camisa Polo,Roupas,2229.32,2,4458.64,Dinheiro,Sudeste
+2023-10-01,Calça Jeans,Roupas,4635.77,5,23178.85,Cartão de Crédito,Norte
+2023-11-09,Calça Jeans,Roupas,4860.06,4,19440.24,Pix,Sul
+2023-11-15,Smartphone,Eletrônicos,1072.3,4,4289.2,Pix,Nordeste
+2023-06-18,Smartphone,Eletrônicos,1908.94,5,9544.7,Cartão de Débito,Sul
+2023-10-28,Camisa Polo,Roupas,1061.14,3,3183.42,Pix,Sul
+2023-04-29,Smartphone,Eletrônicos,4982.39,10,49823.9,Pix,Sul
+2023-11-03,Cafeteira,Eletrodomésticos,3701.66,9,33314.94,Pix,Norte
+2023-08-14,Smartphone,Eletrônicos,4748.15,6,28488.9,Cartão de Débito,Centro-Oeste
+2023-12-10,Sandália,Calçados,2006.65,2,4013.3,Dinheiro,Sudeste
+2023-11-15,Calça Jeans,Roupas,1767.2,7,12370.4,Dinheiro,Centro-Oeste
+2023-06-23,Sandália,Calçados,2326.54,3,6979.62,Dinheiro,Centro-Oeste
+2023-05-31,Smartphone,Eletrônicos,2274.81,8,18198.48,Cartão de Débito,Centro-Oeste
+2023-11-24,Smartphone,Eletrônicos,1707.9,9,15371.1,Cartão de Débito,Norte
+2023-09-15,Calça Jeans,Roupas,891.97,6,5351.82,Pix,Sul
+2023-02-20,Notebook,Eletrônicos,2103.13,1,2103.13,Cartão de Débito,Centro-Oeste
